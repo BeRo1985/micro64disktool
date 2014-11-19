@@ -1,0 +1,8 @@
+#!/bin/sh
+# Tested with FreePascal 2.6.0
+# fpc.exe must be in your PATH environment variable
+rm -f *.ppu
+rm -f *.o
+fpc -B -Sd -O3 micro64disktool.dpr
+rm -f *.ppu
+rm -f *.o
