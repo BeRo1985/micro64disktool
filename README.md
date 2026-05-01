@@ -1,3 +1,7 @@
+> [!IMPORTANT]
+> The primary repository has moved to [git.rosseaux.net/BeRo1985/micro64disktool](https://git.rosseaux.net/BeRo1985/micro64disktool).
+> This GitHub repository is kept up-to-date via push mirroring.
+
 micro64disktool
 
 ===============
